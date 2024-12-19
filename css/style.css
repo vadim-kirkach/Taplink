@@ -33,6 +33,9 @@ body {
   font-size: 24px;
   font-weight: 600;
   line-height: 29px;
+  text-align: center;
+  margin: auto;
+  
 }
 
 .user {
@@ -95,7 +98,7 @@ body {
   border-radius: 5px;
   text-decoration: none;
   color: #FFF;
-  font-size: 20px;
+  font-size: 17px;
   font-weight: 600;
   line-height: 29px;
   gap: 10px;
@@ -113,4 +116,32 @@ background: rgb(193, 53, 132);
 
 .button.tes {
  background: rgb(74, 89, 108);
+}
+
+
+.card-text {
+color: rgb(92, 89, 89);
+font-size: 18px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+justify-content: center;
+}
+
+.card-img {
+  padding-bottom: 15px;
+  
+}
+
+.card.bottom {
+  background-color: transparent;
+}
+
+.button.w {
+background: rgb(95, 252, 123);
+}
+
+.button.v {
+background: rgb(115, 96, 242);
 }
